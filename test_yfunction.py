@@ -1,5 +1,5 @@
 import unittest
-from math import cps5415
+from yfunction import cps5415
 
 class TestSampleMethods(unittest.TestCase):
       def test_cps5415(self):
